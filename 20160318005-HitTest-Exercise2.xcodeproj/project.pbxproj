@@ -15,6 +15,7 @@
 		D54838BA1C9C4A53006B2F98 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D54838B81C9C4A53006B2F98 /* LaunchScreen.storyboard */; };
 		D54838C51C9C4A53006B2F98 /* _0160318005_HitTest_Exercise2Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = D54838C41C9C4A53006B2F98 /* _0160318005_HitTest_Exercise2Tests.m */; };
 		D54838D01C9C4A53006B2F98 /* _0160318005_HitTest_Exercise2UITests.m in Sources */ = {isa = PBXBuildFile; fileRef = D54838CF1C9C4A53006B2F98 /* _0160318005_HitTest_Exercise2UITests.m */; };
+		D54838DF1C9C4B0D006B2F98 /* PopButton.m in Sources */ = {isa = PBXBuildFile; fileRef = D54838DE1C9C4B0D006B2F98 /* PopButton.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,8 @@
 		D54838CB1C9C4A53006B2F98 /* 20160318005-HitTest-Exercise2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "20160318005-HitTest-Exercise2UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D54838CF1C9C4A53006B2F98 /* _0160318005_HitTest_Exercise2UITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = _0160318005_HitTest_Exercise2UITests.m; sourceTree = "<group>"; };
 		D54838D11C9C4A53006B2F98 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D54838DD1C9C4B0D006B2F98 /* PopButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PopButton.h; sourceTree = "<group>"; };
+		D54838DE1C9C4B0D006B2F98 /* PopButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PopButton.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +108,8 @@
 				D54838AE1C9C4A53006B2F98 /* AppDelegate.m */,
 				D54838B01C9C4A53006B2F98 /* ViewController.h */,
 				D54838B11C9C4A53006B2F98 /* ViewController.m */,
+				D54838DD1C9C4B0D006B2F98 /* PopButton.h */,
+				D54838DE1C9C4B0D006B2F98 /* PopButton.m */,
 				D54838B31C9C4A53006B2F98 /* Main.storyboard */,
 				D54838B61C9C4A53006B2F98 /* Assets.xcassets */,
 				D54838B81C9C4A53006B2F98 /* LaunchScreen.storyboard */,
@@ -271,6 +276,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D54838B21C9C4A53006B2F98 /* ViewController.m in Sources */,
+				D54838DF1C9C4B0D006B2F98 /* PopButton.m in Sources */,
 				D54838AF1C9C4A53006B2F98 /* AppDelegate.m in Sources */,
 				D54838AC1C9C4A53006B2F98 /* main.m in Sources */,
 			);
